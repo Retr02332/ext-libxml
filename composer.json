@@ -1,0 +1,10 @@
+{
+    "name": "ext-libxml",
+    "authors": [
+        {
+            "name": "Retr02332",
+            "email": "retr02332bughunter@gmail.com"
+        }
+    ],
+    "require": {}
+}
